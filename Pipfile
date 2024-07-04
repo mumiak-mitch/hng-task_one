@@ -4,10 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
+flask = "*"
 requests = "*"
-ipinfo-django = "*"
-django-environ = "*"
 
 [dev-packages]
 
